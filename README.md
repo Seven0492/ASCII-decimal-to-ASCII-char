@@ -8,7 +8,7 @@ Converts <strong>decimal ASCII code</strong> to <strong>char ASCII code</strong>
 
 Dump the decimal ASCII code in a <strong>dump.txt</strong> file in the same directory as the script.
 
-The decimal ASCII code <em>must</em> be separated by a <strong>newline<strong>.
+The decimal ASCII code <em>must</em> be separated by a <strong>newline</strong>.
 
 <ul><li><code>./encrypt_ASCII.sh # (As long as you didn't mess up in dump.txt it should work fine)</code></li></ul>
 
