@@ -60,7 +60,7 @@ read -r -p "Do you want to join the char ASCII code together?(y/n): " y_n;
 echo
 
 if [ "$y_n" == "y" ]; then
-	read -r -p "Do you want to separate them by anything?(Press enter to separate them by nothing, no spaces): " separator;
+    read -r -p "Do you want to separate them by anything?(Spaces don't work. Press enter to separate them by nothing): " separator;
     echo
     join "$separator" "${result[@]}"
     echo
