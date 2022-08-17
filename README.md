@@ -1,4 +1,4 @@
-## ASCII-decimal-to-ASCII-char
+## ASCII-decimal-to-ASCII-char-converter
 
 By <strong>Seven#2672</strong> on Discord!
 
